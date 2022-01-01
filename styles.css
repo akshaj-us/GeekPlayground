@@ -29,7 +29,6 @@
     padding: 0 50px;
 }
 
-
 #navbar__logo {
     font-family: 'Kumbh Sans', sans-serif;
     background-color: #ff8177;
@@ -139,22 +138,18 @@
         transition: all 0.3s ease-in-out;
         background: #fff;
     }
-
     .navbar__item {
         width: 100%;
     }
-
     .navbar__links {
         text-align: center;
         padding: 2rem;
         width: 100%;
         display: table;
     }
-
     .navbar__btn {
         padding-bottom: 2rem;
     }
-
     .button {
         display: flex;
         justify-content: center;
